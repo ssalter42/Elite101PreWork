@@ -1,4 +1,4 @@
 print("Hello World!")
-print("This is the first line")
-print("This is the second line")
-print("This is the third line")
+print("This is the 1st line")
+print("This is the 2nd line")
+print("This is the 3rd line")
